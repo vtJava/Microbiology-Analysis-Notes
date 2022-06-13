@@ -1,0 +1,16 @@
+Q. In medical microbiology if you have a purity plate of salmonella, E. coli 
+& Klebsiell, how to differentiate between them and find pathogenic microbe? 
+
+*This result means on the antibiotic bench the vitek ID is not pure after it was loaded 
+for biochemical ID. 
+*I would view the calibration / QC records of VITEK card for anIdent kit if QC has passed.
+*I would check QC record of saline used to make 0.5 McFarland suspension of colony.
+* The enterofaecal specimen has those three microbes as commensals besides salmonella.
+(site of infection). I would check site of infection to see what is likely.
+* Check previous results on iLab with latex agglutination testing to see what progress
+has been made. 
+*I would restreak the purity plate with another colony that does not ferment lactorse NLF
+to test for Salmonella. 
+*Conclusion: Resubculture onto fresh suitable agar & incubate for 18-24 hours.
+
+
